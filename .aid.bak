@@ -1,0 +1,9 @@
+GET /drive/v2internal/files/0BwDc0ozaETdYQ25pMTdwbmRnS0U?alt=media&reason=909&syncType=1&openDrive=false&errorRecovery=false&originatorApp=102 HTTP/1.1
+Authorization: Bearer ya29.Cl1XAxBihN1J5ptbVK1aTHA8SFezkmV36JdzWwrmCvMw5QtxuArmYM0o4FQo2aK0V8I-uFoXItO_nGTrTEW8vBJ7Gddndy4VcU98eQCJGmhJJ6zPZF-7uKUdWUuggsw
+User-Agent: AndroidDownloadManager/6.0.1 (Linux; U; Android 6.0.1; SM-T350 Build/MMB29M)
+Accept-Encoding: identity
+Connection: close
+If-Match: "1920168678"
+Range: bytes=14090240-
+Host: www.googleapis.com
+
